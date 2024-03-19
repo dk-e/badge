@@ -1,1 +1,2 @@
-console.log("c")
+const c = "c"
+console.log(c)
